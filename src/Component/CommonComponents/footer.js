@@ -21,7 +21,7 @@ export default function Footer() {
         align="center"
       >
         <CycloneSharpIcon className="mb-1 mr-1 animate-spin animate-infinite" />
-        Projex2.0
+        Gymbulls
         <div className="contact-info flex flex-col justify-center mr-3 gap-3 text-black bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500	text-white pt-1">
           <div className="info-item">
             <p>
@@ -83,7 +83,7 @@ export default function Footer() {
         align="center"
       >
         <CycloneSharpIcon className="mb-1 mr-1 animate-spin animate-infinite" />
-        Projex2.0
+        Gymbulls
         <div className="contact-info flex justify-center mr-3 gap-3 text-black bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500	text-white pt-1">
           <div className="info-item">
             <p>
