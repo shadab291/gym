@@ -31,7 +31,7 @@ export default function Navbar() {
         <div className="flex items-center">
           <img className="w-7 mr-2 animate-spin animate-delay-[2ms] color-white" src={sharingon} alt=""></img>
           <div className="text-2xl font-bold mt-3 mb-4 text-white hover:text-orange-500">
-            <Link to="/">Projex 2.0</Link>
+            <Link to="/">Gymbylls</Link>
           </div>
         </div>
         <div className="flex space-x-10 text-white mt-4">
@@ -92,7 +92,7 @@ export default function Navbar() {
           <div className="flex text-2xl font-bold mt-3 mb-4 text-white hover:text-orange-500">
           <Hamburger toggled={isOpen} toggle={setOpen} size={20} />
           <CycloneSharpIcon className="mt-3 mb-4 mr-2 ml-2 animate-spin animate-infinite" />
-            <Link to="/" className="mt-2">Projex 2.0</Link>
+            <Link to="/" className="mt-2">Gymbulls</Link>
           </div>
           <div className="relative text-white" align="" >
           <button
