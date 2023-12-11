@@ -10,7 +10,7 @@ export default function About() {
             About Us
           </Typography>
           <Typography variant="body1" align="left" paragraph className='mt-10 '>
-          Projex 2.0 was born out of a shared passion for fitness and a commitment to making health and wellness accessible to everyone. In 1999, our founders set out on a mission to empower individuals to achieve their fitness goals by providing top-quality workout equipment and expert guidance.
+          Gymbulls was born out of a shared passion for fitness and a commitment to making health and wellness accessible to everyone. In 1999, our founders set out on a mission to empower individuals to achieve their fitness goals by providing top-quality workout equipment and expert guidance.
               </Typography>
         </Container>
       </header>
@@ -23,10 +23,10 @@ export default function About() {
               Our Vision
               </Typography>
               <Typography variant="body1" align="left" paragraph className='mt-10 '>
-              At Projex 2.0, we envision a world where fitness isn't a luxury but a way of life. We believe that a healthier, stronger you is the first step toward a happier, more fulfilled life. Our vision is to be your trusted partner on this transformative journey. 
+              At Gymbulls, we envision a world where fitness isn't a luxury but a way of life. We believe that a healthier, stronger you is the first step toward a happier, more fulfilled life. Our vision is to be your trusted partner on this transformative journey. 
               </Typography>
               <Typography variant="body1" align="left" paragraph className='mt-10 '>
-              When you choose Projex 2.0, you're not just buying equipment; you're becoming a part of a vibrant fitness community. Connect with fellow fitness enthusiasts, access expert tips, and embark on your fitness journey with confidence. 
+              When you choose Gymbulls, you're not just buying equipment; you're becoming a part of a vibrant fitness community. Connect with fellow fitness enthusiasts, access expert tips, and embark on your fitness journey with confidence. 
               </Typography>
             </Grid>
           </Grid>
