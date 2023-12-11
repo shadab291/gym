@@ -12,7 +12,7 @@ const Home = () => {
       <header className="bg-cover bg-center bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white py-16">
         <Container>
           <Typography variant="h2" component="h1" gutterBottom>
-            <span className="inline-flex h-20 pt-2 overflow-x-hidden animate-type group-hover:animate-type-reverse whitespace-nowrap text-brand-accent will-change-transform">Welcome to Gymbulls/span>
+            <span className="inline-flex h-20 pt-2 overflow-x-hidden animate-type group-hover:animate-type-reverse whitespace-nowrap text-brand-accent will-change-transform">Welcome to Gymbulls</span>
           </Typography>
           <Typography variant="h5" gutterBottom>
             Your Fitness Journey Starts Here
