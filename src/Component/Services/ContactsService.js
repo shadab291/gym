@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const contact_api_base_url=  "http://localhost:8080/api/v1/contacts";
+const contact_api_base_url=  "http://localhost:8082/api/v1/contacts";
 
 
 class ContactService {
