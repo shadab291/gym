@@ -89,7 +89,7 @@ class Services extends Component {
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">{machine.description}</p>
               <p className="pt-3">
                 <button class="bg-sky-500 hover:bg-sky-700 ... rounded-full p-3">
-                  Add to Cart
+                  Enquire Now
                 </button>
               </p>
             </div>
