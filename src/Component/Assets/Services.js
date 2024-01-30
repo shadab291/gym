@@ -6,6 +6,7 @@ import machine1 from "../Assets/Assets_Logo/machine1.png";
 import machine2 from "../Assets/Assets_Logo/machine2.png";
 import machine3 from "../Assets/Assets_Logo/machine3.png";
 import machine4 from "../Assets/Assets_Logo/machine4.png";
+import { Link } from "react-router-dom";
 
 class Services extends Component {
   render() {
@@ -88,9 +89,9 @@ class Services extends Component {
               <p className="Price"></p>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">{machine.description}</p>
               <p className="pt-3">
-                <button class="bg-sky-500 hover:bg-sky-700 ... rounded-full p-3">
+              <Link to="/contact"<button class="bg-sky-500 hover:bg-sky-700 ... rounded-full p-3">
                   Enquire Now
-                </button>
+                </button></Link>
               </p>
             </div>
           ))}
